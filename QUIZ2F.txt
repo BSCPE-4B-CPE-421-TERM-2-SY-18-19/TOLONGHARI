@@ -1,0 +1,12 @@
+
+JOB CHRISTIAN LUZON TOLONGHARI BS-CPE 4B
+TROUBLESHOOTING QUIZ2f
+
+PROBLEMS:
+	It is found that the power supply has a defective fuse so it needs replacement. It is the reason why the system was failing. It also is the reason why we fail to check the other parts especially the motherboard. When it comes to the other parts, they work good. The CPU fan is functional but we 
+	observerd that the system unit is dusty and the cables are old enough
+	to break at anytime.
+SOLUTIONS:
+	> Replacement of fuse for the power supply
+	> Replacement of power supply
+	> Buy a new set of System Unit.
